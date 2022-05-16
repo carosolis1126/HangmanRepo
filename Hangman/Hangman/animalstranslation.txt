@@ -1,0 +1,14 @@
+perro
+gato
+vaca
+hámster
+pez dorado
+caballo
+delfín
+león
+tigre
+cebra
+llama
+caimán
+tortuga
+conejo

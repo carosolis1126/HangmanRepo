@@ -1,0 +1,69 @@
+germany
+andorra
+saudi arabia
+argentina
+australia
+austria
+belgium
+bolivia
+brazil
+canada
+chile
+china
+cyprus
+colombia
+costa rica
+croatia
+cuba
+denmark
+ecuador
+egypt
+el salvador
+scotland
+united states
+philippines
+finland
+france
+great britain
+greece
+guatemala
+honduras
+hungary
+india
+indonesia
+england
+iran
+iraq
+ireland
+israel
+italy
+jamaica
+japan
+luxembourg
+morocco
+mexico
+norway
+new zealand
+wales
+netherlands
+panama
+paraguay
+peru
+poland
+portugal
+puerto rico
+united kingdom
+czech republic
+dominican republic
+russia
+serbia
+south africa
+sweden
+switzerland
+thailand
+tunisia
+turkey
+ukraine
+uruguay
+venezuela
+spain

@@ -1,0 +1,69 @@
+berlin
+andorra la vella
+riyadh
+buenos aires
+canberra
+vienna
+brussels
+sucre
+brasilia
+ottawa
+santiago
+beijing
+nicosia
+bogota
+san jose
+zagreb
+havana
+copenhagen
+quito
+cairo
+san salvador
+edinburgh
+washington dc
+manila
+helsinki
+paris
+london
+athens
+guatemala city
+tegucigalpa
+budapest
+new delhi
+jakarta
+london
+tehran
+baghdad
+dublin
+jerusalem
+rome
+kingston
+tokyo
+luxembourg
+rabat
+mexico city
+oslo
+wellington
+cardiff
+amsterdam
+panama city
+asuncion
+lima
+warsaw
+lisbon
+san juan
+london
+prague
+santo domingo
+moscow
+belgrade
+cape town
+stockholm
+bern
+bangkok
+tunis
+ankara
+kyiv
+montevideo
+caracas
+madrid

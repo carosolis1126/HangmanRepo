@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "heart-shape-various-vegetables-fruits-healthy-food-concept-isolated-white-background-140287808-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

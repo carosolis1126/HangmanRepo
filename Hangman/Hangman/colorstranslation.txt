@@ -1,0 +1,23 @@
+rojo
+azul
+verde
+amarillo
+morado
+rosado
+naranja
+café
+negro
+blanco
+gris
+oro
+plata
+verde azulado
+índigo
+magenta
+violeta
+salmón
+lavanda
+cian
+marrón
+beige
+bronce

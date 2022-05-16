@@ -10,10 +10,26 @@
 		7846C21726BCA93400D5C5A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7846C21626BCA93400D5C5A0 /* AppDelegate.swift */; };
 		7846C21926BCA93400D5C5A0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7846C21826BCA93400D5C5A0 /* SceneDelegate.swift */; };
 		7846C21B26BCA93400D5C5A0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7846C21A26BCA93400D5C5A0 /* ViewController.swift */; };
-		7846C21E26BCA93400D5C5A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7846C21C26BCA93400D5C5A0 /* Main.storyboard */; };
 		7846C22126BCA93400D5C5A0 /* Hangman.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7846C21F26BCA93400D5C5A0 /* Hangman.xcdatamodeld */; };
 		7846C22326BCA94500D5C5A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7846C22226BCA94500D5C5A0 /* Assets.xcassets */; };
 		7846C22626BCA94500D5C5A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7846C22426BCA94500D5C5A0 /* LaunchScreen.storyboard */; };
+		7846C22E26BCA9A100D5C5A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7846C22D26BCA9A100D5C5A0 /* Main.storyboard */; };
+		7846C23426BCA9CD00D5C5A0 /* AnimalsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7846C22F26BCA9CC00D5C5A0 /* AnimalsViewController.swift */; };
+		7846C23526BCA9CD00D5C5A0 /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7846C23026BCA9CC00D5C5A0 /* ColorsViewController.swift */; };
+		7846C23626BCA9CD00D5C5A0 /* CountriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7846C23126BCA9CC00D5C5A0 /* CountriesViewController.swift */; };
+		7846C23726BCA9CD00D5C5A0 /* CapitalsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7846C23226BCA9CD00D5C5A0 /* CapitalsViewController.swift */; };
+		7846C23826BCA9CD00D5C5A0 /* FruitsVeggiesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7846C23326BCA9CD00D5C5A0 /* FruitsVeggiesViewController.swift */; };
+		7846C24326BCAA0700D5C5A0 /* animalstranslation.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C23926BCAA0600D5C5A0 /* animalstranslation.txt */; };
+		7846C24426BCAA0700D5C5A0 /* fruitsandveggies.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C23A26BCAA0600D5C5A0 /* fruitsandveggies.txt */; };
+		7846C24526BCAA0700D5C5A0 /* colors.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C23B26BCAA0600D5C5A0 /* colors.txt */; };
+		7846C24626BCAA0700D5C5A0 /* countries.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C23C26BCAA0700D5C5A0 /* countries.txt */; };
+		7846C24726BCAA0700D5C5A0 /* fruitsveggiestranslation.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C23D26BCAA0700D5C5A0 /* fruitsveggiestranslation.txt */; };
+		7846C24826BCAA0700D5C5A0 /* capitalstranslation.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C23E26BCAA0700D5C5A0 /* capitalstranslation.txt */; };
+		7846C24926BCAA0700D5C5A0 /* animals.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C23F26BCAA0700D5C5A0 /* animals.txt */; };
+		7846C24A26BCAA0700D5C5A0 /* capitals.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C24026BCAA0700D5C5A0 /* capitals.txt */; };
+		7846C24B26BCAA0700D5C5A0 /* colorstranslation.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C24126BCAA0700D5C5A0 /* colorstranslation.txt */; };
+		7846C24C26BCAA0700D5C5A0 /* countriestranslation.txt in Resources */ = {isa = PBXBuildFile; fileRef = 7846C24226BCAA0700D5C5A0 /* countriestranslation.txt */; };
+		7846C24E26BCB28300D5C5A0 /* MainMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7846C24D26BCB28300D5C5A0 /* MainMenuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,11 +37,27 @@
 		7846C21626BCA93400D5C5A0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7846C21826BCA93400D5C5A0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7846C21A26BCA93400D5C5A0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7846C21D26BCA93400D5C5A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7846C22026BCA93400D5C5A0 /* Hangman.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Hangman.xcdatamodel; sourceTree = "<group>"; };
 		7846C22226BCA94500D5C5A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7846C22526BCA94500D5C5A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7846C22726BCA94500D5C5A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7846C22D26BCA9A100D5C5A0 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		7846C22F26BCA9CC00D5C5A0 /* AnimalsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimalsViewController.swift; sourceTree = "<group>"; };
+		7846C23026BCA9CC00D5C5A0 /* ColorsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
+		7846C23126BCA9CC00D5C5A0 /* CountriesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountriesViewController.swift; sourceTree = "<group>"; };
+		7846C23226BCA9CD00D5C5A0 /* CapitalsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CapitalsViewController.swift; sourceTree = "<group>"; };
+		7846C23326BCA9CD00D5C5A0 /* FruitsVeggiesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FruitsVeggiesViewController.swift; sourceTree = "<group>"; };
+		7846C23926BCAA0600D5C5A0 /* animalstranslation.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = animalstranslation.txt; sourceTree = "<group>"; };
+		7846C23A26BCAA0600D5C5A0 /* fruitsandveggies.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fruitsandveggies.txt; sourceTree = "<group>"; };
+		7846C23B26BCAA0600D5C5A0 /* colors.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = colors.txt; sourceTree = "<group>"; };
+		7846C23C26BCAA0700D5C5A0 /* countries.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = countries.txt; sourceTree = "<group>"; };
+		7846C23D26BCAA0700D5C5A0 /* fruitsveggiestranslation.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fruitsveggiestranslation.txt; sourceTree = "<group>"; };
+		7846C23E26BCAA0700D5C5A0 /* capitalstranslation.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = capitalstranslation.txt; sourceTree = "<group>"; };
+		7846C23F26BCAA0700D5C5A0 /* animals.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = animals.txt; sourceTree = "<group>"; };
+		7846C24026BCAA0700D5C5A0 /* capitals.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = capitals.txt; sourceTree = "<group>"; };
+		7846C24126BCAA0700D5C5A0 /* colorstranslation.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = colorstranslation.txt; sourceTree = "<group>"; };
+		7846C24226BCAA0700D5C5A0 /* countriestranslation.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = countriestranslation.txt; sourceTree = "<group>"; };
+		7846C24D26BCB28300D5C5A0 /* MainMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,11 +93,27 @@
 				7846C21626BCA93400D5C5A0 /* AppDelegate.swift */,
 				7846C21826BCA93400D5C5A0 /* SceneDelegate.swift */,
 				7846C21A26BCA93400D5C5A0 /* ViewController.swift */,
-				7846C21C26BCA93400D5C5A0 /* Main.storyboard */,
+				7846C22D26BCA9A100D5C5A0 /* Main.storyboard */,
 				7846C22226BCA94500D5C5A0 /* Assets.xcassets */,
 				7846C22426BCA94500D5C5A0 /* LaunchScreen.storyboard */,
 				7846C22726BCA94500D5C5A0 /* Info.plist */,
 				7846C21F26BCA93400D5C5A0 /* Hangman.xcdatamodeld */,
+				7846C24D26BCB28300D5C5A0 /* MainMenuViewController.swift */,
+				7846C22F26BCA9CC00D5C5A0 /* AnimalsViewController.swift */,
+				7846C23226BCA9CD00D5C5A0 /* CapitalsViewController.swift */,
+				7846C23026BCA9CC00D5C5A0 /* ColorsViewController.swift */,
+				7846C23126BCA9CC00D5C5A0 /* CountriesViewController.swift */,
+				7846C23326BCA9CD00D5C5A0 /* FruitsVeggiesViewController.swift */,
+				7846C23F26BCAA0700D5C5A0 /* animals.txt */,
+				7846C23926BCAA0600D5C5A0 /* animalstranslation.txt */,
+				7846C23A26BCAA0600D5C5A0 /* fruitsandveggies.txt */,
+				7846C23D26BCAA0700D5C5A0 /* fruitsveggiestranslation.txt */,
+				7846C23B26BCAA0600D5C5A0 /* colors.txt */,
+				7846C24126BCAA0700D5C5A0 /* colorstranslation.txt */,
+				7846C23C26BCAA0700D5C5A0 /* countries.txt */,
+				7846C24026BCAA0700D5C5A0 /* capitals.txt */,
+				7846C24226BCAA0700D5C5A0 /* countriestranslation.txt */,
+				7846C23E26BCAA0700D5C5A0 /* capitalstranslation.txt */,
 			);
 			path = Hangman;
 			sourceTree = "<group>";
@@ -127,9 +175,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7846C24826BCAA0700D5C5A0 /* capitalstranslation.txt in Resources */,
+				7846C24726BCAA0700D5C5A0 /* fruitsveggiestranslation.txt in Resources */,
+				7846C24626BCAA0700D5C5A0 /* countries.txt in Resources */,
+				7846C24326BCAA0700D5C5A0 /* animalstranslation.txt in Resources */,
+				7846C24426BCAA0700D5C5A0 /* fruitsandveggies.txt in Resources */,
+				7846C24526BCAA0700D5C5A0 /* colors.txt in Resources */,
+				7846C24A26BCAA0700D5C5A0 /* capitals.txt in Resources */,
+				7846C24C26BCAA0700D5C5A0 /* countriestranslation.txt in Resources */,
+				7846C24926BCAA0700D5C5A0 /* animals.txt in Resources */,
+				7846C24B26BCAA0700D5C5A0 /* colorstranslation.txt in Resources */,
 				7846C22626BCA94500D5C5A0 /* LaunchScreen.storyboard in Resources */,
 				7846C22326BCA94500D5C5A0 /* Assets.xcassets in Resources */,
-				7846C21E26BCA93400D5C5A0 /* Main.storyboard in Resources */,
+				7846C22E26BCA9A100D5C5A0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,24 +198,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7846C23826BCA9CD00D5C5A0 /* FruitsVeggiesViewController.swift in Sources */,
+				7846C23426BCA9CD00D5C5A0 /* AnimalsViewController.swift in Sources */,
+				7846C23626BCA9CD00D5C5A0 /* CountriesViewController.swift in Sources */,
 				7846C21B26BCA93400D5C5A0 /* ViewController.swift in Sources */,
 				7846C21726BCA93400D5C5A0 /* AppDelegate.swift in Sources */,
 				7846C22126BCA93400D5C5A0 /* Hangman.xcdatamodeld in Sources */,
+				7846C24E26BCB28300D5C5A0 /* MainMenuViewController.swift in Sources */,
+				7846C23526BCA9CD00D5C5A0 /* ColorsViewController.swift in Sources */,
 				7846C21926BCA93400D5C5A0 /* SceneDelegate.swift in Sources */,
+				7846C23726BCA9CD00D5C5A0 /* CapitalsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		7846C21C26BCA93400D5C5A0 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7846C21D26BCA93400D5C5A0 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		7846C22426BCA94500D5C5A0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -288,7 +344,7 @@
 		7846C22B26BCA94500D5C5A0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = Hangman;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = WLD7HPQ299;
@@ -300,14 +356,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.CarolinaSolis.Hangman;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		7846C22C26BCA94500D5C5A0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = Hangman;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = WLD7HPQ299;
@@ -319,7 +375,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.CarolinaSolis.Hangman;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
